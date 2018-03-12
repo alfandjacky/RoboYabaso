@@ -12,7 +12,8 @@ var options = {
   method: 'POST',
   headers: {
     'Content-Type': 'application/json',
-    'Authorization': 'Bearer [LineAuthorization]'   
+    'Authorization': 'Bearer Xos3j0WSqh7ymnwfhsoKIu/NzhFE8vpBQNe4D62omuU+dod5PFhyR1kgL6Gf1vgyNLhtaRtvb/7HuOes/h5y2501XVhPzGr9JG9Y5RRnVddBrzJ9qQU1T6V4cs3XVg5tgoNceGaS79IlvckV33jGdwdB04t89/1O/w1cDnyilFU=
+'   
     
   }
 }
